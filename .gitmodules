@@ -1,0 +1,3 @@
+[submodule "semtex-grpc"]
+	path = semtex-grpc
+	url = http://www.github.com/SemtexProject/semtex-grpc
